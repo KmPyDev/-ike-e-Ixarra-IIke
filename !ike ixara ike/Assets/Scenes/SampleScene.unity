@@ -361,6 +361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movingSpeed: 2
+  xFlipGfx: {fileID: 1812898143}
 --- !u!70 &1991906835
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
